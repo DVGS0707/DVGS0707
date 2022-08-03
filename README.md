@@ -1,5 +1,5 @@
 <h1>
-    <img src="./media/banner.gif" alt="" style="max-width:100%;">
+    <img src="./media/VISHWA GAURAV SHUKLA(2).gif" alt="" style="max-width:100%;">
 
     
 <img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px" height="120">  Welcome my name is Vishwa Gaurav Shukla.<br>
