@@ -27,7 +27,7 @@ My other interests include binge watch, listening to music and playing pc games.
 
 [<img src="https://tenor.com/view/falling-leaves-youtube-thanksgiving-pop-explode-gif-19389326.gif" width="120px" height="120">](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w)[<img src="https://tenor.com/view/youtube-gif-21553644.gif" width="120px" height="120">](https://www.youtube.com/channel/UCbUjGQ_5IpyrylzplVZKB9w) 
     
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vgs-profile/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iamkingvgs/)<-- [<img src = "https://img.shields.io/badge/Resume%20-%23326ce5.svg?&style=for-the-badge&logo=microsoft-word&logoColor=white">](https://drive.google.com/file/d/1JjaBh_0yG5EzpKRTTvi2FsVgv01jWmyC/view?usp=sharing) -->[![GitHub followers](https://img.shields.io/github/followers/iprincekumark?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vgs-profile/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iamkingvgs/)[![GitHub followers](https://img.shields.io/github/followers/DVGS0707?label=Followers&style=for-the-badge)](https://github.com/iprincekumark?tab=followers)
 
 <hr>
 
