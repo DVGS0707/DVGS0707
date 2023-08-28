@@ -1,7 +1,7 @@
 <h1>
 
     
-<img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px" height="120">  Welcome my name is Vishwa Gaurav Shukla.<br>
+<img src="https://media.giphy.com/media/5c5hIZVydGahjjmiHS/giphy.gif" width="150px" height="120">  Hey you came, welcome! My name is Vishwa Gaurav Shukla but you can call me 'VGS'<br>
 <img src="https://media.giphy.com/media/mFTVjWHFk0dw2qxJKs/giphy.gif" width="9000px" height="50" >
     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DVGS0707&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
