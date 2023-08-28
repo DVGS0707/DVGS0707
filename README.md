@@ -12,13 +12,11 @@
 
 ##  About Meee <img src="https://media.giphy.com/media/hULIWsDRiNV2GhL1ED/giphy.gif" width="100px" height="130"> 
 -  My name is **Vishwa Gaurav Shukla**
--  I'm a student of **B.Tech Mechanical Engineering** 
--  I am interested in **Problem Solving** , **Web Development**.
--  My favourite language for **DSA** and **general programming** is **Java**
+-  I'm graduate from  **B.Tech Mechanical Engineering** 
+-  I am interested in **Full Stack Development **.
+-  My favourite language for **DSA** and **General Programming** is **Java**
 
-`I am Front End Web Developer from India currently pursuing my Bachelor's degree in Mechanical Engineering from Ajay Kumar Engineering College,Ghaziabad.
-I have a keen interest in developing systems which can solve real life problems. I am also gaining experience in the field of professional coding and AI/ML.
-My other interests include binge watch, listening to music and playing pc games.`
+`Passionate IT professional with a proven track record of leveraging cutting-edge technologies to drive innovation and deliver efficient solutions. Dedicated to continuous learning and collaborative problem-solving in dynamic team environments.`
 
 <div align="center">
     
